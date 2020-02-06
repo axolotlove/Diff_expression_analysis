@@ -1,5 +1,5 @@
 # Diff_expression_analysis
-This repository contain wirkflow for differential gene expression analysis using Cufflinks
+This repository contain workflow for differential gene expression analysis using Cufflinks
 
 We used STAR for genome indexing and alignment and Cufflinks software for differential gene expresion analysis. Detailed pipeline can be found in pipeline.txt. All procedures were performed on Google Cloud platform.
 
