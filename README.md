@@ -9,6 +9,7 @@ System requirements for used software:
 1. STAR: 64-bit computer running either Linux or Mac OS X, minimum – CPUs=4, RAM=32Gb; recommended settings of Google Cloud VM – CPUs=8, RAM=130 Gb; recommended options for genome indexing: --sjdbOverhang 99 --genomeChrBinNbits 15. 
 2. CuffLinks: minimum – 64-bit computer running either Linux or Mac OS X; 4 GB of RAM; recommended settings of Google Cloud VM – CPUs=8, RAM=52 Gb.
 
+We revealed a significant decrease of SQSTM1 expression in HER2- ER+ PR+ cancer samples (p=0.002). Moreover, we found significant expression levels of previously unknown isoform in control samples (p=0.013).
 
 References
 Dobin, A., and Thomas R. Gingeras. Mapping RNA‐seq reads with STAR. Current protocols in bioinformatics 51.1 (2015): 11-14. 
